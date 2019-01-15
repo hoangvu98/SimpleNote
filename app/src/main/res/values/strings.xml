@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Simple Notepad</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_note_name">New note</string>
+    <string name="button_save">Save</string>
+    <string name="button_delete">Delete</string>
+    <string name="action_find">Find</string>
+    <string name="search_hint">Type here to search</string>
+    <string name="tile_hint">Add Title</string>
+    <string name="content_hint">Add Content</string>
+</resources>
